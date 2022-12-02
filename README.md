@@ -18,18 +18,18 @@ To build logisim, you must first install the following tools.
 
 - jdk >= 10
 
-## Build logisim
+## Run logisim
 
-### Build on Windows
+### Run on Windows
 
 You should open "预装软件" and set up logisim-hust-20200118.exe.
 
-### Build on MacOS
+### Run on MacOS
 ```
 java -jar logisim-hust-mac.jar
 ```
 
-### Build on Linux
+### Run on Linux
 ```
 java -jar logisim-hust-linux.jar
 ```
