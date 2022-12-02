@@ -8,15 +8,15 @@ To build logisim, you must first install the following tools.
 
 ### Windows visia/7/8/8.1/10/11
 
-- jdk >= 10
+- jdk >= 11
 
 ### MacOS >= 10.15 (x86_64) (Intel)
 
-- jdk >= 10
+- jdk >= 11
 
 ### Linux
 
-- jdk >= 10
+- jdk >= 11
 
 ## Run logisim
 
