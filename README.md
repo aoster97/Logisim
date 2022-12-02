@@ -14,6 +14,10 @@ To build logisim, you must first install the following tools.
 
 - jdk >= 11
 
+### MacOS >= 11 (ARM) (Intel)
+
+- jdk >= 11
+
 ### Linux
 
 - jdk >= 11
