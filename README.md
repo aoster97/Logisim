@@ -14,7 +14,7 @@ To build logisim, you must first install the following tools.
 
 - jdk >= 11
 
-### MacOS >= 11 (ARM)
+### MacOS >= 11 (ARM) (Apple M)
 
 You'd better not use ARM MAC! ARM MAC cannot run it and the error "java.awt.Toolkit.getMenuShortcutKeyMask()" will be displayed.(test on jdk8u351)
 
@@ -30,12 +30,12 @@ If you want to use logisim on ARM MAC, please refer to the Linux method below.
 
 You should open "预装软件" and set up logisim-hust-20200118.exe.
 
-### Run on MacOS
+### Run on MacOS (x86_64)
 ```
 java -jar logisim-hust-mac.jar
 ```
 
-### Run on Linux
+### Run on Linux or MacOS (ARM)
 ```
 java -jar logisim-hust-linux.jar
 ```
